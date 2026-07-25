@@ -6,8 +6,8 @@ def classify_clip(track_idx: int, item) -> ClipColorReport:
     duration = item.GetDuration()
     warnings = []
 
-    num_local = item.GetNumVersions(0)
-    num_remote = item.GetNumVersions(1)
+    num_local = len(item.GetVersionNameList(0))
+    num_remote = len(item.GetVersionNameList(1))
     version_names = item.GetVersionNameList(0) or []
     current = item.GetCurrentVersion(0) or ""
     lut_node1 = item.GetLUT(1) or ""
