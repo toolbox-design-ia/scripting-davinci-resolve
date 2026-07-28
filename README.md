@@ -4,6 +4,8 @@
 
 Repositorio companion (Studio35, colección de scripting para postproducción). Los scripts completos de cada capítulo viven en `capitulos/`, con los nombres de la sección del libro que los explica. El anexo del libro explica dónde colocar cada script y el Anexo B resuelve los errores comunes.
 
+En `ejemplos/` hay scripts autocontenidos listos para ejecutar sin montar nada: empieza por ahí.
+
 **Regla del umbral:** el libro imprime íntegro lo que cabe en 30 líneas; lo mayor vive aquí como archivo canónico y el libro imprime el fragmento que explica cada decisión.
 
 ## Un repositorio, tres ediciones
