@@ -1,6 +1,6 @@
 [Español](README.md) · [English](README.en.md) · [Français](README.fr.md)
 
-# Herramientas para DaVinci Resolve — Scripts del libro
+# Scripts para DaVinci Resolve — Scripts del libro
 
 Repositorio companion (Studio35, colección de scripting para postproducción). Los scripts completos de cada capítulo viven en `capitulos/`, con los nombres de la sección del libro que los explica. El anexo del libro explica dónde colocar cada script y el Anexo B resuelve los errores comunes.
 
@@ -15,3 +15,7 @@ Compartido por las ediciones ES/EN/FR del libro: código único, documentación 
 ## Licencia
 
 MIT para el código; el texto del libro, todos los derechos reservados.
+
+---
+
+Serie **POST & IA** — escribir tus propias herramientas, con la IA como asistente.
