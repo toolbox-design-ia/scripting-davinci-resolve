@@ -2,7 +2,7 @@
 
 # Scripts para DaVinci Resolve — Scripts del libro
 
-Repositorio companion (Studio35, colección de scripting para postproducción). Los scripts completos de cada capítulo viven en `capitulos/`, con los nombres de la sección del libro que los explica. El anexo del libro explica dónde colocar cada script y el Anexo B resuelve los errores comunes.
+Repositorio companion (Toolbox Design, colección de scripting para postproducción). Los scripts completos de cada capítulo viven en `capitulos/`, con los nombres de la sección del libro que los explica. El anexo del libro explica dónde colocar cada script y el Anexo B resuelve los errores comunes.
 
 En `ejemplos/` hay scripts autocontenidos listos para ejecutar sin montar nada: empieza por ahí.
 

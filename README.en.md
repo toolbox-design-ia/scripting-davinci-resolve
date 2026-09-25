@@ -2,7 +2,7 @@
 
 # Scripts para DaVinci Resolve — Book scripts
 
-Companion repository (Studio35). Complete scripts for each chapter live under `capitulos/`, named after the book section that explains them.
+Companion repository (Toolbox Design). Complete scripts for each chapter live under `capitulos/`, named after the book section that explains them.
 
 ## One repository, three editions
 
